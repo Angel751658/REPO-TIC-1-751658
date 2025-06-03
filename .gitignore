@@ -1,2 +1,4 @@
-#Ignorado :(
-/log_prueba.txt
+# Los .log
+*.log
+# Carpeta modules
+modules/
